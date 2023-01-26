@@ -1,1 +1,1 @@
-# LocalChat
+# LocalChat Project
