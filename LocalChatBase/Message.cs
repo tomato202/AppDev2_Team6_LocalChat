@@ -12,6 +12,9 @@ namespace LocalChatBase
 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void ReferenceMessage()
         {
 
